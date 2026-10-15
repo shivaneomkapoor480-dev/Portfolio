@@ -30,7 +30,7 @@ export const PROFILE = {
     instagram: "", // ← add the sports media page handle if you want it public
     twitter: "",
   },
-  cv: "/cv.pdf",
+  cv: "/resume.pdf",
 };
 
 export const NAV = [
